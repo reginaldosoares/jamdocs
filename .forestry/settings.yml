@@ -13,6 +13,13 @@ sections:
   match: "**/*"
   templates:
   - documentation-page
+- type: directory
+  path: automs
+  label: AutomationStrom
+  create: all
+  match: "**/*"
+  templates:
+  - documentation-page
 - type: heading
   label: Settings
 - type: document
