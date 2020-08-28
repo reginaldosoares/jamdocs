@@ -4,9 +4,9 @@ date: 2020-08-02
 slug: automs
 
 ---
-Lorem Ipsum 
+Lorem Ipsum
 
-Automs is a platform which .... 
+Automs is a platform which ....
 
 ![](/screenshor-forestry-preview.png)
 
