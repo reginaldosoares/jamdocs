@@ -15,4 +15,5 @@ fields:
   name: slug
   label: slug
 pages:
+- automs/new-plataform-coming.md
 - docs/editing-in-forestry.md
