@@ -10,4 +10,4 @@ Automs is a platform which ....
 
 ![](/screenshor-forestry-preview.png)
 
-looks great
+> looks great
